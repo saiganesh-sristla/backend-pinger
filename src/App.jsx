@@ -4,7 +4,8 @@ import axios from 'axios';
 const urls = [
   'https://eventhub-backend-krle.onrender.com/',
   'https://certichain-e6kz.onrender.com/',
-  'https://backend-ruby-five-72.vercel.app/'
+  'https://backend-ruby-five-72.vercel.app/',
+  'https://prescription-backend-9lkm.onrender.com/'
   // Add all your backend URLs here
 ];
 
