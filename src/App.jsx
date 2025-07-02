@@ -7,7 +7,7 @@ const urls = [
   'https://backend-ruby-five-72.vercel.app/',
   'https://prescription-backend-9lkm.onrender.com/',
   'https://leadflow-backend-ercn.onrender.com/',
-  'https://crm-backend-lwxu.onrender.com'
+  'https://crm-backend-lwxu.onrender.com/'
   // Add all your backend URLs here
 ];
 
